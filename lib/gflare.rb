@@ -1,3 +1,4 @@
+require 'resolv-replace'
 require 'net/http'
 require 'open-uri'
 require 'json'
